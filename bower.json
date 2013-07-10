@@ -1,0 +1,7 @@
+{
+    "name": "es5-shim",
+    "version": "2.0.11",
+    "main": "es5-shim.js",
+    "dependencies": {
+    }
+}
